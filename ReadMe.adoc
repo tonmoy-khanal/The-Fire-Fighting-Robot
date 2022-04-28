@@ -6,7 +6,8 @@
 
 = Project: The Fire Fighting Robot NAMOR
 
-Describe your project
+This code is of a Autonomus Fire Fighting Robot Which uses Three Sensors to check the flame and Get along with it to put it off.
+This Project is Submitted to Bangalore University under Registeration Number 18NCS85037
 
 == Step 1: Installation
 Please describe the steps to install this project.
