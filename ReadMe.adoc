@@ -7,7 +7,7 @@ This project was developed as part of a submission to Bangalore University for a
 ## Author Information
 
 - **Author:** TONMOYKHANAL
-- **Email:** [AuthorEmail](mailto:{tonmoykhanal86@gmail.com})
+- **Email:** tonmoykhanal86@gmail.com
 - **Date:** 09/08/2021
 - **Revision:** Version #
 - **License:** Public Domain
